@@ -1,2 +1,2 @@
 # MidnightAviWorld
-host area of live enviroment.
+host area of live environment.
